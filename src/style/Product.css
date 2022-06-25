@@ -1,0 +1,52 @@
+/*
+
+primary color = #c7eafe
+secondary color = #F087B6
+
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.allitems {
+  overflow: hidden;
+  background: #fff;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+  display: inline-block;
+}
+
+.images {
+  border: 3px solid #f087b6;
+  position: relative;
+  height: 300px;
+  width: 350px;
+  top: 0px;
+  right: -20px;
+  z-index: 0;
+  animation-delay: 0.5s;
+}
+
+.details h1 {
+  font-family: "Bebas Neue", sans-serif;
+}
+
+.button {
+  background: #f087b6;
+  border: none;
+  padding: 8px 12px;
+  cursor: pointer;
+  transform: translateX(10px);
+}
+
+h2 {
+  font-family: "Poppins", sans-serif;
+  text-decoration: underline;
+  color: #f087b6;
+  text-transform: uppercase;
+}
