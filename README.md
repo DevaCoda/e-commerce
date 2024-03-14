@@ -22,4 +22,4 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 ### `npm run build`
 
 
-this site web not finish at all let me finish i need time broooo
+
